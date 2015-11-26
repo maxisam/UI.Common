@@ -1,4 +1,5 @@
 /* tslint:disable:typedef comment-format */
+/// <reference path="typings/angularjs/angular.d.ts" />
 
 module UI {
     "use strict";
